@@ -94,7 +94,7 @@ SHAP Explainability per patient
 
 ### With Docker
 ```bash
-git clone INSERT_GITHUB_URL
+git clone https://github.com/Muhammad-Mujtaba-Git/Diabetes-Risk-Predictor.git
 cd diabetes-risk-predictor
 docker build -t diabetes-api .
 docker run -p 7860:7860 diabetes-api
