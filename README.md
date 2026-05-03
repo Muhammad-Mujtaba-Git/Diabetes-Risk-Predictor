@@ -12,7 +12,7 @@ Built with **PyTorch + FastAPI + Docker**, trained on real Pakistani hospital da
 
 | | |
 |---|---|
-| 🌐 Live Web App | [Try it here]((https://huggingface.co/spaces/MuhammadMujtabaAIML/Diabetes-Risk-Predictor-Streamlit)) |
+| 🌐 Live Web App | [Try it here](https://huggingface.co/spaces/MuhammadMujtabaAIML/Diabetes-Risk-Predictor-Streamlit) |
 | ⚙️ API Docs | [FastAPI Swagger](https://muhammadmujtabaaiml-diabetes-risk-predictor.hf.space/docs) |
 | 🐳 Docker Image | [Docker Image](https://hub.docker.com/r/muhammadmujtabaai/diabetespredictor) |
 
